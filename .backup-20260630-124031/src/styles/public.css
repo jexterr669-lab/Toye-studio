@@ -449,12 +449,3 @@ footer .glow-f{width:680px;height:340px;background:var(--glow-gold);left:50%;top
   .pp-host{aspect-ratio:4/5}
   .pp-host h3{font-size:26px}
 }
-
-/* hero one-screen fine-tune (phones) — compress above the reel, pull reel up, keep reel size */
-@media(max-width:560px){
-  .hero{padding:52px 0 42px}
-  .hero h1{font-size:42px;line-height:1.05;margin:14px auto 14px;max-width:340px}
-  .hero p{font-size:15px;line-height:1.5;max-width:312px;margin:0 auto 22px}
-  .hero-cta{gap:12px}
-  .hero-frame{margin:12px auto 0;aspect-ratio:16/11}
-}
